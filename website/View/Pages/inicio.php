@@ -29,5 +29,5 @@
 </div>
 
 <div style="text-align:center">
-<?php new \sowerphp\general\Multimedia\View_Helper_Imagenes('/archivos/multimedia/imagenes/screenshots'); ?>
+<?php new \sowerphp\general\View_Helper_Gallery('/archivos/multimedia/imagenes/screenshots'); ?>
 </div>
