@@ -12,7 +12,7 @@
                 <h2 class="panel-title"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span> Servidor primario</h2>
             </div>
             <div class="panel-body">
-                <span class="label label-primary" style="font-size:1.3em">ns1.sasco.cl</span>
+                <span class="label label-primary" style="font-size:1.3em">ns3.sasco.cl</span>
             </div>
         </div>
     </div>
@@ -22,7 +22,7 @@
                 <h2 class="panel-title"><span class="glyphicon glyphicon-globe" aria-hidden="true"></span> Servidor secundario</h2>
             </div>
             <div class="panel-body">
-                <span class="label label-info" style="font-size:1.3em">ns2.sasco.cl</span>
+                <span class="label label-info" style="font-size:1.3em">ns4.sasco.cl</span>
             </div>
         </div>
     </div>
